@@ -176,10 +176,6 @@ Agentic-AI-Project/
 
 Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
 
-## 📜 License
-
-This project currently has no license specified. Consider adding an [MIT License](https://choosealicense.com/licenses/mit/) or similar if you plan to open-source it fully.
-
 ## 👩‍💻 Author
 
 **Sonakshi9900** – [GitHub Profile](https://github.com/Sonakshi9900)
